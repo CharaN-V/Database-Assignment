@@ -1,0 +1,5 @@
+MaterialType,Source,Cost,AvailabilityStatus
+Concrete,Local Supplier,100,In-Stock
+Steel,Steel Manufacturing .co,250,In-Stock
+HVAC Systems,HVAC Solutions.pvltd,300,Low-stock
+plumbing,Modern warehouse,50,In-stock
